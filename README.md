@@ -8,6 +8,15 @@
 
 </div>
 
+
+<br>
+
+<a href="https://www.thegitcity.com/dev/IRRatium">
+<img src="https://www.thegitcity.com/dev/IRRatium/opengraph-image" width="600" alt="Samuel Rizzon - Git City"/>
+</a>
+
+<br>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
