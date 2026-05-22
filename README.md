@@ -8,15 +8,6 @@
 
 </div>
 
-
-<br>
-
-<a href="https://www.thegitcity.com/dev/IRRatium">
-<img src="https://www.thegitcity.com/dev/IRRatium/opengraph-image" width="600" alt="Samuel Rizzon - Git City"/>
-</a>
-
-<br>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,21 +23,14 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=IRRatium&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=IRRatium&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRRatium&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-      </td>
-    </tr>
-  </table>
+  
+<br>
+
+<a href="https://www.thegitcity.com/dev/IRRatium">
+<img src="https://www.thegitcity.com/dev/IRRatium/opengraph-image" width="600" alt="Samuel Rizzon - Git City"/>
+</a>
+
+<br>
 </div>
 
 <div align="center">
